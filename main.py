@@ -8,7 +8,7 @@ cambios = False
 while True:
 
     print("\n======GESTOR INTELIGENTE DE CLIENTES =====")
-    print("1.        Agregar Cliente")
+    print("1. Agregar Cliente")
     print("2. Mostrar Clientes")
     print("3. Buscar Cliente")
     print("4. Eliminar Cliente")
