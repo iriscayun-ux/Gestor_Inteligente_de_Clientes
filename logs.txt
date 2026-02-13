@@ -1,0 +1,9 @@
+
+[2026-02-12 14:59:48] ACCION=CREADO | Cliente | ID=9086 | Nombre=Estela Cordoba | Email=estela@gmail.com
+[2026-02-12 14:59:55] ACCION=GUARDADO | Archivo JSON actualizado correctamente
+[2026-02-12 15:02:50] ACCION=ELIMINADO | Cliente | ID=7098 | Nombre=Joaquin Gajardo
+[2026-02-12 15:15:15] ACCION=GUARDADO | Archivo JSON actualizado correctamente
+[2026-02-12 15:30:43] ACCION=EDITADO | Cliente | ID=9080 | Nombre=Juan Perez | Email=rosap@gmail.com
+[2026-02-12 15:31:36] ACCION=EDITADO | Cliente | ID=9080 | Nombre=Juan Perez | Email=rosap@gmail.com
+[2026-02-12 23:09:48] ACCION=EDITADO | Cliente | ID=9086 | Nombre=EstelA Cordoba Martinez | Email=estela@gmail.com
+[2026-02-12 23:19:09] ACCION=GUARDADO | Archivo JSON actualizado correctamente

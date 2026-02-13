@@ -1,0 +1,65 @@
+[
+    {
+        "id": 9080,
+        "nombre": "Juan Perez",
+        "email": "Jperez@gmail.com",
+        "telefono": "+56962990228",
+        "tipo": "Cliente"
+    },
+    {
+        "id": 9087,
+        "nombre": "Rosa Juares",
+        "email": "Rjuares@gmail.com",
+        "telefono": "+56962990228",
+        "tipo": "ClienteCorporativo"
+    },
+    {
+        "id": 8765,
+        "nombre": "iiuuy",
+        "email": "irislljk@gmail.com",
+        "telefono": "+56973311172",
+        "tipo": "ClienteCorporativo"
+    },
+    {
+        "id": 98875644,
+        "nombre": "omar garcia",
+        "email": "omatr@gmail.com",
+        "telefono": "+56962990228",
+        "tipo": "Cliente"
+    },
+    {
+        "id": 9007,
+        "nombre": "iuuhhhh",
+        "email": "uuiiiiiiiii@gmail.com",
+        "telefono": "+56988420282",
+        "tipo": "ClienteCorporativo"
+    },
+    {
+        "id": 8075,
+        "nombre": "yyyyyyy",
+        "email": "rororororor@gmail.com",
+        "telefono": "+56988420282",
+        "tipo": "ClientePremium"
+    },
+    {
+        "id": 4550,
+        "nombre": "iris",
+        "email": "iris@gmail.com",
+        "telefono": "+56962990228",
+        "tipo": "Cliente"
+    },
+    {
+        "id": 3045,
+        "nombre": "Maria",
+        "email": "Maria@gmail.com",
+        "telefono": "+56973311172",
+        "tipo": "ClientePremium"
+    },
+    {
+        "id": 9086,
+        "nombre": "EstelA Cordoba Martinez",
+        "email": "estela@gmail.com",
+        "telefono": "+56972345678",
+        "tipo": "Cliente"
+    }
+]
